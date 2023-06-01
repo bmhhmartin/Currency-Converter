@@ -1,0 +1,48 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+a,
+a:hover {
+    text-decoration: none !important;
+}
+
+img {
+    border: 0px;
+}
+
+h1,h2,h3,h4,h5,h6,ol,ul,p,address {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+body {
+    overflow-x: hidden;
+}
+html {
+    overflow-x: hidden;
+}
+a{
+    text-decoration: none !important;
+}
+a:hover{
+    text-decoration: none !important;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&family=Pushster&family=Righteous&display=swap');
+
+/*font-family ends*/
+:root {
+    --primary-color: #07ff31;
+    --secondary-color: #dc4a38;
+    --text-color: #464646;
+    --white-color: #ffffff;
+    --red-color: #ff1c00;
+    --blue-color: #1da1f2;
+}
